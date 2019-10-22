@@ -1,6 +1,10 @@
-update=Mon 29 May 2017 10:30:07 PM UTC
+update=2019 October 03, Thursday 23:48:39
 version=1
 last_client=kicad
+[general]
+version=1
+RootSch=
+BoardNm=
 [pcbnew]
 version=1
 LastNetListRead=
@@ -23,11 +27,9 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
-LibDir=../mysensors_radios.pretty
+LibDir=
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,6 +60,13 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=mySensors_radios
-LibName31=MyArduProMiniTKB
-LibName32=ProMini-LoRa-WAN-node-rescue
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
